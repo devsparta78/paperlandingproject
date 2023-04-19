@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../sell"
+		},
+		{
+			"path": "../autogpt"
+		},
+		{
+			"path": "../Auto-GPT-0.2.1 3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "paper landing page "
+	}
+}
